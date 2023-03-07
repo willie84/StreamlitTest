@@ -3,9 +3,7 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 from datetime import datetime
-import pdfminer
 import pandas as pd
-from io import StringIO
 import streamlit as st
 
 ##LOAD DATA
